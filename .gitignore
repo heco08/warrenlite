@@ -1,0 +1,18 @@
+# Virtual environment folder
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files from editors
+*.swp
+*.swo
+*.bak
+
+# Folder for outputs or logs (optional)
+outputs/
+
